@@ -1,6 +1,6 @@
 const urlBase = `https://api.openweathermap.org/data/2.5/weather`;
 
-let API_KEY = "2d5f9cd0c1ed032a639e04ddebb65ebb";
+let API_KEY = "API-KEY-AQUI";
 
 const difflving = 273.15;
 
